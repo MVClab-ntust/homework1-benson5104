@@ -7,7 +7,7 @@ implementation of resnet by pytorch
 accuracy on CIFAR100 can reach 63% after 100 epoch(resnet101)
 
 > this is my first time writing a ai model
-
+>
 > i don't quite understand how the entire code work yet
 
 > done by claude.ai
